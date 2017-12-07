@@ -1,3 +1,3 @@
 function happyHolidays(greeting) {return `Happy holidays!`}
-function happyHoldaysTo(you) {return `Happy holidays, you!`}
+function happyHolidaysTo(you) {return `Happy holidays, you!`}
 function happyHolidayTo( )
